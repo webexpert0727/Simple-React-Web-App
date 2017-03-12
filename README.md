@@ -1,7 +1,5 @@
 ![react-web](https://cloud.githubusercontent.com/assets/677114/13032846/13118fe4-d33e-11e5-8ddd-4088e57a2eb2.png)
 
-# React Web [中文](https://github.com/taobaofed/react-web/blob/master/README-zh.md) [![npm version](https://badge.fury.io/js/react-web.svg)](http://badge.fury.io/js/react-web)
-
 > A framework for building web apps with React Native compatible API.
 
 ## Examples
